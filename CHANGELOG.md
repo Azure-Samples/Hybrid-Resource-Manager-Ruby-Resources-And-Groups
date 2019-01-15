@@ -1,13 +1,7 @@
-## [project-title] Changelog
+## Hybrid-Resource-Manager-Ruby-Resources-And-Groups Changelog
 
-<a name="x.y.z"></a>
-# x.y.z (yyyy-mm-dd)
+<a name="1.0.0"></a>
+# 1.0.0 (2019-01-15)
 
 *Features*
-* ...
-
-*Bug Fixes*
-* ...
-
-*Breaking Changes*
-* ...
+* Add Resource group management sample for Azure Stack
