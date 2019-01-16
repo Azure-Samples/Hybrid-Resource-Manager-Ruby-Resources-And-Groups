@@ -4,7 +4,7 @@ platforms: ruby
 author: viananth
 ---
 
-# Manage Azure resources and resource groups with Ruby
+# Hybrid-Resource-Manager-Ruby-Resources-And-Groups
 
 This sample explains how to manage your
 [resources and resource groups in Azure Stack](https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-key-features#resource-groups)
