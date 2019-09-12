@@ -1,7 +1,11 @@
 ---
-services: Azure-stack
-platforms: ruby
-author: viananth
+page_type: sample
+languages:
+- ruby
+products:
+- azure
+description: "This sample explains how to manage your resources and resource groups in Azure Stack using the Azure Ruby SDK."
+urlFragment: Hybrid-Resource-Manager-Ruby-Resources-And-Groups
 ---
 
 # Hybrid-Resource-Manager-Ruby-Resources-And-Groups
